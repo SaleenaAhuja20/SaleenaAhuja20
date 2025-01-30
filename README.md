@@ -1,16 +1,14 @@
-## Hi there 👋
-i am saleena
-<!--
-**SaleenaAhuja20/SaleenaAhuja20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Saleena! 👋 
+🎓 **Computer Science Student | Aspiring Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+Computer Science student at SZABIST Karachi, passionate about solving real-world problems and working on Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 **Currently working on:** A small project to sharpen my skills. 
+- 🌱 **Currently learning:** JavaScript, React, and Frontend Development.  
+- 💬 **Ask me about:** Java, Data Structures, and frontend Development.  
+- 📫 **How to reach me:** saleenaahuja20@gmail.com  
+- ⚡ **Fun fact:** I accidentally deleted my entire project once. Lesson learned: Always use Git! 😭
+
+## 🔧 **Languages & Tools**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
