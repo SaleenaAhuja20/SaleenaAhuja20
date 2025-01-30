@@ -19,7 +19,7 @@ Computer Science student at SZABIST Karachi, passionate about solving real-world
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 **GitHub Stats**   
-![Saleena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Saleena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaleenaAhuja20&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 
