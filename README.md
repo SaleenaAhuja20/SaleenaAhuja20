@@ -16,6 +16,7 @@ Computer Science student at SZABIST Karachi, passionate about solving real-world
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![EMU8086](https://img.shields.io/badge/EMU8086-16--bit%20Assembly-%230073cf?style=flat-square&logo=assembly&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 **GitHub Stats**   
