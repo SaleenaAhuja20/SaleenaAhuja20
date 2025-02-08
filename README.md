@@ -22,4 +22,6 @@ Computer Science student at SZABIST Karachi, passionate about solving real-world
 ![Saleena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaleenaAhuja20&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaleenaAhuja20&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahilkumarvalecha&theme=dark)](https://git.io/streak-stats)
+
 
